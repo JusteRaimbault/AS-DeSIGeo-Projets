@@ -1,3 +1,6 @@
 [submodule "GroupeDDADSQPV/AnalyseSpatialeENSG"]
 	path = GroupeDDADSQPV/AnalyseSpatialeENSG
 	url = https://github.com/pascalpvk/AnalyseSpatialeENSG
+[submodule "Groupe_DD-AD-SQ-PV/AnalyseSpatialeENSG"]
+	path = Groupe_DD-AD-SQ-PV/AnalyseSpatialeENSG
+	url = https://github.com/pascalpvk/AnalyseSpatialeENSG

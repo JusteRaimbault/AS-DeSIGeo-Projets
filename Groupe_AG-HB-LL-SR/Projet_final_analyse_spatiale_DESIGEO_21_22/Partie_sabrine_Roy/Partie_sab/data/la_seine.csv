@@ -1,0 +1,2 @@
+osm_id,name,amenity,hstore_to_json
+"914456363",La Seine,,"{""CEMT"": ""Vb"", ""boat"": ""yes"", ""name"": ""La Seine"", ""osm_uid"": ""2831457"", ""osm_user"": ""AdVerburg"", ""waterway"": ""river"", ""osm_version"": ""1"", ""seamark:type"": ""separation_lane"", ""osm_changeset"": ""100587833"", ""osm_timestamp"": ""2021-03-07T18:54:36Z""}"
